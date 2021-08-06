@@ -3,24 +3,24 @@
 
 ## 預設帳號密碼
 
-email: tony@stark.com
-password: iamironman
+  email: tony@stark.com
+  password: iamironman
 
 
-email: captain@hotmail.com
-password: icandothisallday
+  email: captain@hotmail.com
+  password: icandothisallday
 
 
-email: peter@parker.com
-password: enajyram
+  email: peter@parker.com
+  password: enajyram
 
 
-email: natasha@gamil.com
-password: *parol#@$!
+  email: natasha@gamil.com
+  password: *parol#@$!
 
 
-email: nick@shield.com
-password: password
+  email: nick@shield.com
+  password: password
 
 ## 環境建置
 - Visual Studio Code v1.57.1
